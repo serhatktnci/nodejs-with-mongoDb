@@ -3,8 +3,8 @@
     - /getRecords
 
  **Installation**
-- `git clone https://github.com/serhatktnci/nodejs-with-mangoDb.git`
-- `cd nodejs-with-mangoDb`
+- `git clone https://github.com/serhatktnci/nodejs-with-mongoDb.git`
+- `cd nodejs-with-mongoDb`
 - `npm install`
 - `npm start`
 
